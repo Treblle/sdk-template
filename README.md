@@ -2,7 +2,7 @@
 
 # Treblle
 
-<a href="https://docs.nhost.io/en/integrations">Integrations</a>
+<a href="https://docs.treblle.com/en/integrations">Integrations</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="http://treblle.com/">Website</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
