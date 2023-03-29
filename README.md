@@ -54,7 +54,9 @@ In your Treblle Dashboard you get to see real-time requests to your API, auto-ge
 
 Treblle also uses the requests sent to your Dashboard to calculate your API score which is a quality score that’s calculated based on the performance, quality, and security best practices for your API.
 
+<br />
 > Visit [https://docs.treblle.com](http://docs.treblle.com) for the complete documentation.
+<br />
 
 ## Get Started
 
@@ -65,8 +67,9 @@ Treblle also uses the requests sent to your Dashboard to calculate your API scor
 ### Install the SDK
 
 <!-- Installation instruction for the platform goes here -->
-
+<br />
 > See the [docs]() for this SDK to learn more.
+<br />
 
 ## Available SDKs
 
