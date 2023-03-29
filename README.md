@@ -100,6 +100,8 @@ below:
 
 - [`treblle-utils`](https://github.com/Treblle/treblle-utils):  A set of helpers and
   utility functions useful for the JavaScript SDKs.
+- [`php-utils`](https://github.com/Treblle/php-utils):   A set of helpers and
+  utility functions useful for the PHP SDKs.
 
 ## Community 💙
 
