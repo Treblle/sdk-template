@@ -69,6 +69,8 @@ Treblle also uses the requests sent to your Dashboard to calculate your API scor
 
 <!-- Installation instruction for the platform goes here -->
 
+> See the [docs]() for this SDK to learn more.
+
 ## Available SDKs
 
 Treblle provides [open-source SDKs](https://docs.treblle.com/en/integrations) that let you seamlessly integrate Treblle with your REST-based APIs.
@@ -99,7 +101,7 @@ below:
 - [`treblle-utils`](https://github.com/Treblle/treblle-utils):  A set of helpers and
   utility functions useful for the JavaScript SDKs.
 
-## Community ❤️
+## Community 💙
 
 First and foremost: **Star and watch this repository** to stay up-to-date.
 
