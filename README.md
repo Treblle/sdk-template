@@ -1,4 +1,10 @@
 <div align="center">
+  <br />
+  <img src="assets/treblle.png"/>
+  <br />
+  <br />
+</div>
+<div align="center">
 
 # Treblle
 
@@ -21,6 +27,14 @@
 Treblle is a lightweight SDK that helps Engineering and Product teams build, ship & maintain REST based APIs faster
 
 ## Features
+
+<div align="center">
+  <br />
+  <img src="assets/treblle-features.png"/>
+  <br />
+  <br />
+</div>
+
 - [API Monitoring & Observability](https://www.treblle.com/features/api-monitoring-observability)
 - [Auto-generated API Docs](https://www.treblle.com/features/auto-generated-api-docs)
 - [API analytics](https://www.treblle.com/features/api-analytics)
