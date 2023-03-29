@@ -1,8 +1,5 @@
 <div align="center">
-  <br />
   <img src="assets/treblle.png"/>
-  <br />
-  <br />
 </div>
 <div align="center">
 
