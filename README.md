@@ -30,7 +30,7 @@ Treblle is a lightweight SDK that helps Engineering and Product teams build, shi
 
 <div align="center">
   <br />
-  <img src="assets/treblle-features.png"/>
+  <img src="assets/treblle-features.png" height="500"/>
   <br />
   <br />
 </div>
