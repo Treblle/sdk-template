@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/treblle.png"/>
+  <img src="https://treblle-github.s3.amazonaws.com/header.png"/>
 </div>
 <div align="center">
 
@@ -27,7 +27,7 @@ Treblle is a lightweight SDK that helps Engineering and Product teams build, shi
 
 <div align="center">
   <br />
-  <img src="assets/treblle-features.png"/>
+  <img src="https://treblle-github.s3.amazonaws.com/features.png"/>
   <br />
   <br />
 </div>
