@@ -41,13 +41,6 @@ Treblle is a lightweight SDK that helps Engineering and Product teams build, shi
 
 
 ## How Treblle Works
-
-<!-- <div align="center">
-  <br />
-  <img src="assets/treblle-diagram.png"/>
-  <br />
-  <br />
-</div> -->
 Once you’ve integrated a Treblle SDK in your codebase, this SDK will send requests and response data to your Treblle Dashboard.
 
 In your Treblle Dashboard you get to see real-time requests to your API, auto-generated API docs, API analytics like how fast the response was for an endpoint, the load size of the response, etc.
@@ -55,6 +48,18 @@ In your Treblle Dashboard you get to see real-time requests to your API, auto-ge
 Treblle also uses the requests sent to your Dashboard to calculate your API score which is a quality score that’s calculated based on the performance, quality, and security best practices for your API.
 
 > Visit [https://docs.treblle.com](http://docs.treblle.com) for the complete documentation.
+
+## Security
+
+### Masking fields
+Masking fields ensure certain sensitive data are removed before being sent to Treblle.
+
+To make sure masking is done before any data leaves your server [we built it into all our SDKs](https://docs.treblle.com/en/security/masked-fields#fields-masked-by-default).
+
+This means data masking is super fast and happens on a programming level before the API request is sent to Treblle. You can [customize](https://docs.treblle.com/en/security/masked-fields#custom-masked-fields) exactly which fields are masked when you’re integrating the SDK.
+
+> Visit the [Masked fields](https://docs.treblle.com/en/security/masked-fields) section of the [docs](https://docs.sailscasts.com) for the complete documentation.
+
 
 ## Get Started
 
@@ -106,6 +111,8 @@ First and foremost: **Star and watch this repository** to stay up-to-date.
 Also, follow our [Blog](https://blog.treblle.com), and on [Twitter](https://twitter.com/treblleapi).
 
 You can chat with the team and other members on [Discord](https://treblle.com/chat) and follow our tutorials and other video material at [YouTube](https://youtube.com/@treblle).
+
+[![Treblle Discord](https://img.shields.io/badge/Treblle%20Discord-Join%20our%20Discord-F3F5FC?labelColor=7289DA&style=for-the-badge&logo=discord&link=https://treblle.com/chat)](https://treblle.com/chat)
 
 ### How to contribute
 
